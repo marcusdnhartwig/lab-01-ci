@@ -217,6 +217,7 @@
     "nopt": "^1.0.10",
     "normalize-path": "^3.0.0",
     "normalize-url": "^4.5.1",
+    "npm": "^8.12.1",
     "npm-run-path": "^4.0.1",
     "object-inspect": "^1.12.2",
     "on-finished": "^2.4.1",
